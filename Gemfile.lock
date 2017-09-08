@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    aws-flow (3.1.0)
+      aws-sdk-v1 (~> 1, >= 1.60.2)
+      lru_redux (~> 0, >= 0.8.1)
+    aws-sdk-v1 (1.67.0)
+      json (~> 1.4)
+      nokogiri (~> 1)
+    json (1.8.6)
+    lru_redux (0.8.4)
+    mini_portile2 (2.2.0)
+    nokogiri (1.8.0)
+      mini_portile2 (~> 2.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  aws-flow
+
+BUNDLED WITH
+   1.14.5
