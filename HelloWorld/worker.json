@@ -1,0 +1,10 @@
+{
+  "activity_workers": [
+    {
+      "activity_classes": [
+        "HelloWorld"
+      ],
+      "number_of_workers": 10
+    }
+  ]
+}
