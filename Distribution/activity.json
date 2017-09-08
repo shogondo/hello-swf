@@ -1,0 +1,14 @@
+{
+  "domain":
+    {
+      "name": "Distribution",
+      "retention_in_days": 10
+    },
+  "activity_workers": [
+    {
+      "number_of_workers": 2,
+      "number_of_forks_per_worker": 2,
+      "task_list": "distribution_activity_tasklist"
+    }
+  ]
+}
